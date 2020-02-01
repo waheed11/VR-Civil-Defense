@@ -1,0 +1,14 @@
+Links:
+
+https://github.com/waheed11/VR-Civil-Defense.git
+
+https://skarredghost.com/2019/06/08/how-get-started-oculus-quest-development-unity/
+
+https://developer.oculus.com/documentation/unity/unity-handtracking/?device=QUEST
+
+https://developer.oculus.com/documentation/unity/book-unity-gsg/
+
+https://www.youtube.com/watch?v=qpXxcvS-g3g
+
+waring: LF will be replaced by CRLF
+
